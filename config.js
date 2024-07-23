@@ -12,6 +12,7 @@ global.location="Lahore,Pakistan."
 
 
 
+
 global.mongodb= process.env.MONGODB_URI || ""
 global.allowJids= process.env.ALLOW_JID || "null" 
 global.blockJids= process.env.BLOCK_JID || "null"
